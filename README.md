@@ -4,8 +4,6 @@ Utilising generated P-L relations for both SMC and LMC Delta Scuti Variables, di
 
 all previous github repositories linked below in a descending order of most recent. (new github repository typically created to re-format/organise code)
 
-https://github.com/dubbatee/ScienceExtension
-\\
-https://github.com/dubbatee/Safety-SciX-V2
-\\
-https://github.com/dubbatee/safety-scix
+https://github.com/dubbatee/ScienceExtension \\
+https://github.com/dubbatee/Safety-SciX-V2 \\ 
+https://github.com/dubbatee/safety-scix \\
